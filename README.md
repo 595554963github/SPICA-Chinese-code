@@ -18,3 +18,8 @@ See `README.mono.md` for details.
 **Windows build:**
 
 To download the lastest automatic build for Windows, [Click Here](https://ci.appveyor.com/api/projects/gdkchan/spica/artifacts/spica_lastest.zip).
+
+
+
+It is translated from SPICA by the original author gdkchan. Thanks to this author for sharing.
+感谢gdkchan提供的源码
